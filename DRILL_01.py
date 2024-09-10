@@ -22,3 +22,5 @@ turtle.onkey(restart, 'Escape')
 
 turtle.listen()
 turtle.exitonclick()
+
+#2021184033 조성욱
